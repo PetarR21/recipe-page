@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/PetarR21/social-links-profile](https://github.com/PetarR21/social-links-profile)
-- Live Site URL: [https://petarr21.github.io/social-links-profile/](https://petarr21.github.io/social-links-profile/)
+- Solution URL: [https://github.com/PetarR21/recipe-page](https://github.com/PetarR21/recipe-page)
+- Live Site URL: [https://petarr21.github.io/recipe-page/](https://petarr21.github.io/recipe-page/)
 
 ## My process
 
